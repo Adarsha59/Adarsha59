@@ -2,13 +2,13 @@
 
 <h1 align="center">Hey 👋, I'm Adarsha Paudyal</h1>
 
-  <img align="right" alt="Coding" width="500" height="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAyNzQxMjYsIm5iZiI6MTcyMDI3MzgyNiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA2VDEzNTAyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjNjE2Y2E4NGJmN2M0NGNiZTNkOTMzYzA3N2U4NWExMzk1ZjhjNWRhMzgyNzAyMGRjNzAzZDM2NmQwMDM5YjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.F_yzlW5pmQBEKkblz4VZRCfO-d8CpWMfMfG6jD6cfxw">
+  <img align="right" alt="Coding" width="500"  src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAyNzQxMjYsIm5iZiI6MTcyMDI3MzgyNiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA2VDEzNTAyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjNjE2Y2E4NGJmN2M0NGNiZTNkOTMzYzA3N2U4NWExMzk1ZjhjNWRhMzgyNzAyMGRjNzAzZDM2NmQwMDM5YjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.F_yzlW5pmQBEKkblz4VZRCfO-d8CpWMfMfG6jD6cfxw">
 
 <p > <img src="https://komarev.com/ghpvc/?username=adarsha59&label=Profile%20views&color=0e75b6&style=flat" alt="adarsha59" /> </p>
-  <h3 align="left"   >A passionate frontend and backend developer from Nepal</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsha59" alt="adarsha59" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adarsha59" target="blank"><img src="https://img.shields.io/twitter/follow/adarsha59?logo=twitter&style=for-the-badge" alt="adarsha59" /></a> </p>
+  <h3 align="left"   >A passionate frontend and backend developer from Nepal</h3>
+
+<p align="left"> <a href="https://twitter.com/adarsha59" target="blank"><img src="https://img.shields.io/twitter/follow/adarsha59?logo=twitter&style=for-the-badge" alt="adarsha59" /></a>
 
 - 🔭 I’m currently working on [TOUR-BOOKING](https://github.com/Adarsha59/Tour-Full-MERN.git)
 
@@ -23,7 +23,8 @@
 - 📄 Know about my experiences [https://aadarshapaudyal.com.np/](https://aadarshapaudyal.com.np/)
 
 - ⚡ Fun fact **Tomorrow never comes**
-
+</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsha59" alt="adarsha59" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adarsha59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsha59" height="30" width="40" /></a>
@@ -41,13 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsha59&show_icons=true&locale=en" alt="adarsha59" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsha59&" alt="adarsha59" /></p>
-<script>
-  const roles = ["A passionate frontend developer from Nepal", "A passionate backend developer from Nepal"];
-  let currentRole = 0;
-  const roleElement = document.getElementById('role');
-
-setInterval(() => {
-currentRole = (currentRole + 1) % roles.length;
-roleElement.innerText = roles[currentRole];
-}, 2000); // Change role every 2 seconds
-</script>
