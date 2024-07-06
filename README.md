@@ -1,11 +1,11 @@
-<img  alt="Coding"  src="https://i.pinimg.com/736x/82/a0/5d/82a05d2a147c1a4457ba124a545d4112.jpg">
+<img  alt="Coding" align="center"  src="https://img.freepik.com/free-vector/top-view-dark-laptop-background-template_52683-7081.jpg?w=1380&t=st=1720275024~exp=1720275624~hmac=5d53f86a78a2ce38ab91930372a714653745f9b7fc776e69c6e6dbad95aec334">
 
 <h1 align="center">Hey 👋, I'm Adarsha Paudyal</h1>
-<h3 align="center">A passionate frontend,Backend developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsha59&label=Profile%20views&color=0e75b6&style=flat" alt="adarsha59" /> </p>
+  <img align="right" alt="Coding" width="500" height="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAyNzQxMjYsIm5iZiI6MTcyMDI3MzgyNiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA2VDEzNTAyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjNjE2Y2E4NGJmN2M0NGNiZTNkOTMzYzA3N2U4NWExMzk1ZjhjNWRhMzgyNzAyMGRjNzAzZDM2NmQwMDM5YjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.F_yzlW5pmQBEKkblz4VZRCfO-d8CpWMfMfG6jD6cfxw">
 
+<p > <img src="https://komarev.com/ghpvc/?username=adarsha59&label=Profile%20views&color=0e75b6&style=flat" alt="adarsha59" /> </p>
+  <h3 align="left"   >A passionate frontend and backend developer from Nepal</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsha59" alt="adarsha59" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adarsha59" target="blank"><img src="https://img.shields.io/twitter/follow/adarsha59?logo=twitter&style=for-the-badge" alt="adarsha59" /></a> </p>
@@ -41,3 +41,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsha59&show_icons=true&locale=en" alt="adarsha59" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsha59&" alt="adarsha59" /></p>
+<script>
+  const roles = ["A passionate frontend developer from Nepal", "A passionate backend developer from Nepal"];
+  let currentRole = 0;
+  const roleElement = document.getElementById('role');
+
+setInterval(() => {
+currentRole = (currentRole + 1) % roles.length;
+roleElement.innerText = roles[currentRole];
+}, 2000); // Change role every 2 seconds
+</script>
