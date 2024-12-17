@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[TOUR-BOOKING](https://github.com/Adarsha59/Tour-Full-MERN.git)**
+ 🔭 I’m currently working on **[next-blog-fullstack](https://github.com/Adarsha59/next-blog-fullstack)**
  
  🌱 I’m currently learning **REACT,MERN,FIGMA,DJANGO**
 
