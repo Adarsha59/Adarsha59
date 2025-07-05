@@ -19,6 +19,31 @@
 ⚡ Fun fact **Nothing**
 
 <hr/>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Adarsha59/Adarsha59/main/adarsha-paudyal-electronics-communication-engineer.jpg" 
+    alt="Adarsha Paudyal Electronic and Communication Engineer profile photo" 
+    width="200" 
+    height="200" 
+    style="border-radius: 50%; object-fit: cover; border: 3px solid #0e75b6; box-shadow: 0 0 10px rgba(14,117,182,0.6);" 
+  />
+</p>
+
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <span style="
+    display: inline-block;
+    font-weight: 900;
+    font-size: 28px;
+    color: #0e75b6;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+  ">
+     Adarsha Paudyal 
+  </span>
+  <br/>
+</p>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
